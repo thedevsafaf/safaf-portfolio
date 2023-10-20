@@ -14,7 +14,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/safaf-portfolio">
       <GlobalStyles />
       <Routes>
         <Route element={<Layout />}>
