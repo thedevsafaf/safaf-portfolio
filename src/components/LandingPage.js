@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 import { Fade } from "react-reveal";
 //svg shape
 // Import SVG
-import BackgroundShape from "../images/blue.svg";
+import BackgroundShape from "../assets/images/svg/blue.svg";
 
 //icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
