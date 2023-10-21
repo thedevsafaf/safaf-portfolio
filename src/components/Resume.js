@@ -96,7 +96,10 @@ function Resume() {
         <Slide left>
           <ResumeContainer>
             <ResumeHeaderContainer>
-              <ResumePhoto src="safaf-pp.png" alt="Safaf Photo" />
+              <ResumePhoto
+                src={require("../assets/images/safaf-photos/safaf-pp.png")}
+                alt="Safaf Photo"
+              />
               <ResumeHeader>
                 <Name>Mohammed Safaf PT</Name>
                 <ContactInfo>

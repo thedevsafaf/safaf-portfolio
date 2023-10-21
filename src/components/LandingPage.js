@@ -76,7 +76,10 @@ function LandingPage() {
 
       <ImageContainer>
         <Fade left>
-          <HeaderImage src="safaf-wo-bg.png" alt="Your Image" />
+          <HeaderImage
+            src={require("../assets/images/safaf-photos/safaf-wo-bg.png")}
+            alt="Your Image"
+          />
         </Fade>
       </ImageContainer>
     </HeaderContainer>
