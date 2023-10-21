@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/safaf-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/safaf-portfolio/static/js/main.429c6ab5.js",
+    "main.js": "/safaf-portfolio/static/js/main.300a74a4.js",
     "static/js/787.60106ae6.chunk.js": "/safaf-portfolio/static/js/787.60106ae6.chunk.js",
+    "static/media/safaf-pp.png": "/safaf-portfolio/static/media/safaf-pp.b9a4ff4cf7d7f9f3ede3.png",
+    "static/media/safaf-wo-bg.png": "/safaf-portfolio/static/media/safaf-wo-bg.b4a8889e43d945a8c130.png",
     "static/media/blue.svg": "/safaf-portfolio/static/media/blue.f6fc00dfc640b577956e5b6f93e80889.svg",
     "index.html": "/safaf-portfolio/index.html",
     "main.073c9b0a.css.map": "/safaf-portfolio/static/css/main.073c9b0a.css.map",
-    "main.429c6ab5.js.map": "/safaf-portfolio/static/js/main.429c6ab5.js.map",
+    "main.300a74a4.js.map": "/safaf-portfolio/static/js/main.300a74a4.js.map",
     "787.60106ae6.chunk.js.map": "/safaf-portfolio/static/js/787.60106ae6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.429c6ab5.js"
+    "static/js/main.300a74a4.js"
   ]
 }
